@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400"  src="https://64.media.tumblr.com/991e7ea5a7b1c3ca65c2c1d923204161/7c24a30644399cce-19/s400x600/6d37cc965134dfe343617668e5d198bc6848ee87.gifv">
 
 <ul> 
-  <li> 🔭 I’m currently working on a mobile banking application named<strong>LiteBucks</strong> </li>
+  <li> 🔭 I’m currently working on a mobile banking application named <strong>LiteBucks</strong> </li>
   <li>👯 I’m looking to collaborate on frontend and backend systems </li>
   <li>🌱 I’m currently learning Ruby </li>
   <li>💬 Ask me about my Leetcode tips </li>
