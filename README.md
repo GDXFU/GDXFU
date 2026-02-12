@@ -1,16 +1,16 @@
 
 
-<h1 align="center">Hi 👋, I'm Gavin</h1>
+<h1 align="center">Hi, I'm Gavin</h1>
 <h3 align="center">A passionate Fullstack developer from Toronto Ontario</h3>
 
 <img align="right" alt="coding" width="400"  src="https://64.media.tumblr.com/991e7ea5a7b1c3ca65c2c1d923204161/7c24a30644399cce-19/s400x600/6d37cc965134dfe343617668e5d198bc6848ee87.gifv">
 
 <ul> 
-  <li> 🔭 I’m currently working on a mobile banking application named <strong>LiteBucks</strong> </li>
+  <li> 🔭 I’m currently working on improving my skills in <strong>Cloud computing</strong> </li>
   <li>👯 I’m looking to collaborate on frontend and backend systems </li>
-  <li>🌱 I’m currently learning Ruby </li>
+  <li>🌱 I’m currently learning Docker </li>
   <li>💬 Ask me about my Leetcode tips </li>
-  <li>📫 How to reach me: Gmail </li>
+  <li>📫 How to reach me: Email </li>
 </ul>
 
 
