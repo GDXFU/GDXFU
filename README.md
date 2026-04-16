@@ -20,25 +20,25 @@
 <h3 align="center">Cloud & DevOps Stack</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
 
 <h3 align="center">Software Development Stack</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
 </p>
